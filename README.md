@@ -1,9 +1,4 @@
 # C Memory Management Practice
 
-Exercises and examples for malloc/free, leaks, double-free, dangling pointers.
+This repository includes my notes for C programming. It encompasses notes going through the basics all the way to advanced memory management.
 
-## Build
-make
-
-## Run
-./bin/memory_tests
