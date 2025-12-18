@@ -1,0 +1,18 @@
+# object files
+*.o
+*.obj
+
+# executables
+*.out
+*.exe
+
+# build directories
+/build/
+bin/
+Debug/
+Release/
+
+# editors / OS files
+.vscode/
+.DS_Store
+*.swp
